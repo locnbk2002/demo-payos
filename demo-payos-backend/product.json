@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 1",
+        "description": "This is the first online course",
+        "price": 50.00,
+        "isOnlineCourse": true
+    },
+    {
+        "id": 2,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 2",
+        "description": "This is the second online course",
+        "price": 100.00,
+        "isOnlineCourse": true
+    },
+    {
+        "id": 3,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 3",
+        "description": "This is the third online course",
+        "price": 150.00,
+        "isOnlineCourse": true
+    },
+    {
+        "id": 4,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 4",
+        "description": "This is the fourth online course",
+        "price": 200.00,
+        "isOnlineCourse": true
+    },
+    {
+        "id": 5,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 5",
+        "description": "This is the fifth online course",
+        "price": 250.00,
+        "isOnlineCourse": true
+    },
+    {
+        "id": 6,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 6",
+        "description": "This is the sixth online course",
+        "price": 300.00,
+        "isOnlineCourse": true
+    },
+    {
+        "id": 7,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 7",
+        "description": "This is the seventh online course",
+        "price": 350.00,
+        "isOnlineCourse": true
+    },
+    {
+        "id": 8,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 8",
+        "description": "This is the eighth online course",
+        "price": 400.00,
+        "isOnlineCourse": true
+    },
+    {
+        "id": 9,
+        "image": "https://via.placeholder.com/150",
+        "name": "Online Course 9",
+        "description": "This is the ninth online course",
+        "price": 450.00,
+        "isOnlineCourse": true
+    }
+]
